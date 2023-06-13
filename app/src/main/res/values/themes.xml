@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TawkToAssignment" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="ProfileActivity" parent="@style/Theme.AppCompat.Light.NoActionBar">
+    <item name="windowActionBar">false</item>
+    </style>
+
+
+    <style name="roundedImageViewRounded">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+</resources>
